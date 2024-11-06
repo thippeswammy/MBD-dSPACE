@@ -1,0 +1,7 @@
+[
+   {
+      "Alias": "FPGA Containers",
+      "Path": "..\\FPGA Custom Functions",
+      "IncludeSubdirectories": false
+   }
+]

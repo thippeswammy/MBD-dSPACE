@@ -1,0 +1,188 @@
+{
+  "Version": "1.0.0",
+  "ElementRef": "HardwareTopology",
+  "ProcessingUnits": [
+    {
+      "Name": "SCALEXIO Processing Unit (1)",
+      "DsNumber": "DSx86_32",
+      "ProductVariant": "HCP P04",
+      "ParentName": "SCALEXIO Rack (1)",
+      "SystemName": "SCALEXIO System (1)",
+      "NumberOfDownlinks": 4,
+      "ChannelSets": [
+        {
+          "Channels": [
+            {
+              "Name": "Eth0_1",
+              "Number": 1,
+              "Configurations": [],
+              "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\EthernetOnboard\\Eth0_1"
+            },
+            {
+              "Name": "Eth0_2",
+              "Number": 2,
+              "Configurations": [],
+              "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\EthernetOnboard\\Eth0_2"
+            }
+          ],
+          "Name": "EthernetOnboard",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\EthernetOnboard"
+        }
+      ],
+      "Boards": [
+        {
+          "DsNumber": "DS6333-PE",
+          "SlotNumbers": "1",
+          "Modules": [
+            {
+              "Name": "DS6330M1 (Module 1)",
+              "DsNumber": "DS6330M1",
+              "SlotNumbers": "1",
+              "Modules": [],
+              "ChannelSets": [],
+              "Configurations": [],
+              "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\DS6330M1 (Module 1)"
+            },
+            {
+              "Name": "DS6330M1 (Module 2)",
+              "DsNumber": "DS6330M1",
+              "SlotNumbers": "2",
+              "Modules": [],
+              "ChannelSets": [],
+              "Configurations": [],
+              "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\DS6330M1 (Module 2)"
+            }
+          ],
+          "ChannelSets": [
+            {
+              "Channels": [
+                {
+                  "Name": "Eth1_1",
+                  "Number": 1,
+                  "Configurations": [],
+                  "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\EthernetAdapter2\\Eth1_1"
+                },
+                {
+                  "Name": "Eth1_2",
+                  "Number": 2,
+                  "Configurations": [],
+                  "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\EthernetAdapter2\\Eth1_2"
+                },
+                {
+                  "Name": "Eth1_3",
+                  "Number": 3,
+                  "Configurations": [],
+                  "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\EthernetAdapter2\\Eth1_3"
+                },
+                {
+                  "Name": "Eth1_4",
+                  "Number": 4,
+                  "Configurations": [],
+                  "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\EthernetAdapter2\\Eth1_4"
+                }
+              ],
+              "Name": "EthernetAdapter2",
+              "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\EthernetAdapter2"
+            },
+            {
+              "Channels": [
+                {
+                  "Name": "Switch1_1",
+                  "Number": 5,
+                  "Configurations": [],
+                  "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\EthernetSwitch\\Switch1_1"
+                }
+              ],
+              "Name": "EthernetSwitch",
+              "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)\\EthernetSwitch"
+            }
+          ],
+          "Configurations": [],
+          "Name": "DS6333-PE Automotive Ethernet Board (1)",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\DS6333-PE Automotive Ethernet Board (1)"
+        }
+      ],
+      "Downlinks": [
+        {
+          "Number": 1,
+          "ConnectionRef": "LabBox (8-slot) (1) [SCALEXIO Rack (1)]",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\Port 1"
+        },
+        {
+          "Number": 2,
+          "ConnectionRef": "",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\Port 2"
+        },
+        {
+          "Number": 3,
+          "ConnectionRef": "",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\Port 3"
+        },
+        {
+          "Number": 4,
+          "ConnectionRef": "",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\Port 4"
+        }
+      ],
+      "Descendants": [
+        {
+          "InstanceType": "Harddrive",
+          "Name": "SCALEXIO SSD 480GB",
+          "Configurations": [
+            {
+              "Property": "HarddriveMemorySize",
+              "Type": "System.UInt64",
+              "Value": 465320923136,
+              "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\SCALEXIO SSD 480GB"
+            }
+          ],
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)\\SCALEXIO SSD 480GB"
+        }
+      ],
+      "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\SCALEXIO Processing Unit (1)"
+    }
+  ],
+  "Units": [
+    {
+      "Name": "LabBox (8-slot) (1)",
+      "DsNumber": "DS6071",
+      "ProductName": "LabBox (8-slot)",
+      "ParentName": "SCALEXIO Rack (1)",
+      "Boards": [
+        {
+          "DsNumber": "DS6101",
+          "SlotNumbers": "1; 2; 3",
+          "Modules": [],
+          "ChannelSets": [],
+          "Configurations": [],
+          "Name": "DS6101 Multi I/O Board (Slot 1)",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\LabBox (8-slot) (1)\\DS6101 Multi I/O Board (Slot 1)"
+        },
+        {
+          "DsNumber": "DS6301",
+          "SlotNumbers": "4",
+          "Modules": [],
+          "ChannelSets": [],
+          "Configurations": [],
+          "Name": "DS6301 CAN/LIN Board (Slot 4)",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\LabBox (8-slot) (1)\\DS6301 CAN/LIN Board (Slot 4)"
+        }
+      ],
+      "Downlinks": [
+        {
+          "Number": 1,
+          "ConnectionRef": "",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\LabBox (8-slot) (1)\\Port 1"
+        },
+        {
+          "Number": 2,
+          "ConnectionRef": "",
+          "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\LabBox (8-slot) (1)\\Port 2"
+        }
+      ],
+      "Descendants": [],
+      "ElementRef": "HardwareTopology\\SCALEXIO Rack (1)\\LabBox (8-slot) (1)"
+    }
+  ],
+  "LinkBoards": []
+}
