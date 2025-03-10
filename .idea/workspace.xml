@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2227ae5a-20f8-4723-9298-1a5f122a8fe6" name="Changes" comment="The basic signal generation by SIL and HIL by dSPACE." />
+    <list default="true" id="2227ae5a-20f8-4723-9298-1a5f122a8fe6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +13,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2u7802LBy17XXytqHMiqwr7JQIw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "G:/Dspace/MBD-dSPACE"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Dspace/MBD-dSPACE&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -53,7 +53,119 @@
       <option name="project" value="LOCAL" />
       <updated>1741588289622</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="The ConfigurationDesk files for Configuration of pin and model for Analog Signal Generation by SIL and HIL methods by dSPACE hardware.">
+      <option name="closed" value="true" />
+      <created>1741588753072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741588753072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add ControlDesk files for Analog Signal Generation using SIL and HIL with dSPACE hardware.">
+      <option name="closed" value="true" />
+      <created>1741589061965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741589061965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add MATLAB model files for Analog Signal Generation,Designed for dSPACE hardware integration.">
+      <option name="closed" value="true" />
+      <created>1741589205741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741589205741</updated>
+    </task>
+    <task id="LOCAL-00005" summary="The ConfigurationDesk files are for the pin configuration and model for digital signal generation by SIL and HIL methods by dSPACE hardware.">
+      <option name="closed" value="true" />
+      <created>1741589302495</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741589302495</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add ControlDesk files for Digital Signal Generation using SIL and HIL with dSPACE hardware">
+      <option name="closed" value="true" />
+      <created>1741589378470</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741589378470</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add MATLAB model files for Digital Signal Generation with dSPACE hardware integration">
+      <option name="closed" value="true" />
+      <created>1741589455112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741589455112</updated>
+    </task>
+    <task id="LOCAL-00008" summary="elete old project files from the master branch">
+      <option name="closed" value="true" />
+      <created>1741589737399</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741589737399</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add ConfigurationDesk files for pin configuration and Arduino Mega communication  &#10;&#10;- Implemented ConfigurationDesk files for configuring pins and signal transmission  &#10;- Enables communication with Arduino Mega  &#10;- Arduino Mega controls all connected sensors, motors, and actuators">
+      <option name="closed" value="true" />
+      <created>1741590179859</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741590179859</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add ControlDesk files for SIL and HIL simulation and testing  &#10;&#10;- Implemented ControlDesk files for testing SIL (loopback method)  &#10;- Integrated HIL testing with Arduino Mega using SCALEXIO processor  &#10;- Included all necessary testing layouts">
+      <option name="closed" value="true" />
+      <created>1741590563036</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741590563036</updated>
+    </task>
+    <task id="LOCAL-00011" summary="The MATLAB models for Vehicle Behavioral Model with dSPACE integration  &#10;&#10;- Designed and validated SIL and HIL models for vehicle behavioral control and testing &#10;- Implemented signal-based testing with Arduino Mega  &#10;- Covered functionalities including steering, accelerator, brake, handbrake, indicators, and start button">
+      <option name="closed" value="true" />
+      <created>1741592523562</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741592523562</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add MATLAB model for Arduino Mega integration with dSPACE SCALEXIO  &#10;&#10;- Developed MATLAB model to control sensors and motors based on signals from dSPACE SCALEXIO  &#10;- Ensures real-time communication and control">
+      <option name="closed" value="true" />
+      <created>1741592663205</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741592663206</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add ConfigurationDesk files for real vehicle motor control via BUS manager  &#10;&#10;- Implemented real-time vehicle control system with BUS management  &#10;- Enabled direct control of PVC motors and steering in a physical vehicle  &#10;- Conducted ECU-based HIL testing for real vehicle control using CAN-based communication with PVC motor">
+      <option name="closed" value="true" />
+      <created>1741593060369</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741593060369</updated>
+    </task>
+    <task id="LOCAL-00014" summary="The ControlDesk files for motor control via ECU messaging with BUS management &#10; &#10;- Enabled direct control of PVC motors and steering in a physical vehicle  &#10;- Implemented ControlDesk files for controlling motors by sending messages to ECU  &#10;- Enabled motor and steering control through BUS manipulation, BUS simulation, and BUS inspection  &#10;- Integrated ECU-based vehicle control system with real-time testing capabilities  &#10;- Conducted ECU-based HIL testing using CAN-based communication with PVC motor">
+      <option name="closed" value="true" />
+      <created>1741593578699</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741593578699</updated>
+    </task>
+    <task id="LOCAL-00015" summary="The MATLAB model for CAN message management with constant blocks &#10;&#10;- Developed MATLAB model for managing CAN messages  &#10;- Integrated constant blocks for signal substitution and processing  &#10;- Ensured seamless communication and data handling within the CAN network  &#10;- Supports real-time ECU-based testing and validation">
+      <option name="closed" value="true" />
+      <created>1741593769257</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1741593769257</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +181,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The basic signal generation by SIL and HIL by dSPACE." />
-    <option name="LAST_COMMIT_MESSAGE" value="The basic signal generation by SIL and HIL by dSPACE." />
+    <MESSAGE value="The ConfigurationDesk files for Configuration of pin and model for Analog Signal Generation by SIL and HIL methods by dSPACE hardware." />
+    <MESSAGE value="Add ControlDesk files for Analog Signal Generation using SIL and HIL with dSPACE hardware." />
+    <MESSAGE value="Add MATLAB model files for Analog Signal Generation,Designed for dSPACE hardware integration." />
+    <MESSAGE value="The ConfigurationDesk files are for the pin configuration and model for digital signal generation by SIL and HIL methods by dSPACE hardware." />
+    <MESSAGE value="Add ControlDesk files for Digital Signal Generation using SIL and HIL with dSPACE hardware" />
+    <MESSAGE value="Add MATLAB model files for Digital Signal Generation with dSPACE hardware integration" />
+    <MESSAGE value="Delete old project files from the master branch" />
+    <MESSAGE value="Delete old project files from the master branch" />
+    <MESSAGE value="Add ConfigurationDesk files for pin configuration and Arduino Mega communication  &#10;&#10;- Implemented ConfigurationDesk files for configuring pins and signal transmission  &#10;- Enables communication with Arduino Mega  &#10;- Arduino Mega controls all connected sensors, motors, and actuators" />
+    <MESSAGE value="Add ControlDesk files for SIL and HIL simulation and testing  &#10;&#10;- Implemented ControlDesk files for testing SIL (loopback method)  &#10;- Integrated HIL testing with Arduino Mega using SCALEXIO processor  &#10;- Included all necessary testing layouts" />
+    <MESSAGE value="The MATLAB models for Vehicle Behavioral Model with dSPACE integration  &#10;&#10;- Designed and validated SIL and HIL models for vehicle behavioral control and testing &#10;- Implemented signal-based testing with Arduino Mega  &#10;- Covered functionalities including steering, accelerator, brake, handbrake, indicators, and start button" />
+    <MESSAGE value="Add MATLAB model for Arduino Mega integration with dSPACE SCALEXIO  &#10;&#10;- Developed MATLAB model to control sensors and motors based on signals from dSPACE SCALEXIO  &#10;- Ensures real-time communication and control" />
+    <MESSAGE value="Add ConfigurationDesk files for real vehicle motor control via BUS manager  &#10;&#10;- Implemented real-time vehicle control system with BUS management  &#10;- Enabled direct control of PVC motors and steering in a physical vehicle  &#10;- Conducted ECU-based HIL testing for real vehicle control using CAN-based communication with PVC motor" />
+    <MESSAGE value="The ControlDesk files for motor control via ECU messaging with BUS management &#10; &#10;- Enabled direct control of PVC motors and steering in a physical vehicle  &#10;- Implemented ControlDesk files for controlling motors by sending messages to ECU  &#10;- Enabled motor and steering control through BUS manipulation, BUS simulation, and BUS inspection  &#10;- Integrated ECU-based vehicle control system with real-time testing capabilities  &#10;- Conducted ECU-based HIL testing using CAN-based communication with PVC motor" />
+    <MESSAGE value="The MATLAB model for CAN message management with constant blocks &#10;&#10;- Developed MATLAB model for managing CAN messages  &#10;- Integrated constant blocks for signal substitution and processing  &#10;- Ensured seamless communication and data handling within the CAN network  &#10;- Supports real-time ECU-based testing and validation" />
+    <option name="LAST_COMMIT_MESSAGE" value="The MATLAB model for CAN message management with constant blocks &#10;&#10;- Developed MATLAB model for managing CAN messages  &#10;- Integrated constant blocks for signal substitution and processing  &#10;- Ensured seamless communication and data handling within the CAN network  &#10;- Supports real-time ECU-based testing and validation" />
   </component>
 </project>
