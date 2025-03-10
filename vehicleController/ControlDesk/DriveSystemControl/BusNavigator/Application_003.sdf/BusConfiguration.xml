@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BNVSerialization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XMLVersion>4.0.0</XMLVersion>
+  <Monitor Name="Monitor1_WIP (1)" ViewVisible="false" SyncMonitoringWithParent="false" RingBufferSizeValue="10000" ProtocolType="CAN" UseJ1939PGNResolving="false" RingBufferMode="Continious" UpdateRate="100" Accessor="&lt;Accessor Version=&quot;4&quot; Identifier=&quot;BusNavigator/BusConfigurations/92f89d05-3514-43a2-afd0-4f05bc7428b7/Processors/2/Hardwares/CAN/Controllers/WIP (1)/&quot; Type=&quot;Path&quot; /&gt;" UniqueObjectIdentifier="41d5889b-9af5-4165-a629-855fb88a30a8">
+    <MonitoringViewSettings ProtocolType="CAN" Version="1" KernelViewMode="StaticView" KernelSubViewMode="FrameSignals" ScrollMode="Tail" IdDisplayFormat="Hexadecimal" DataDisplayFormat="Hexadecimal" NameResolutionType="None" BusStatisticsVisible="false" BusStatisticsWindowSize="784" DecodingWindowVisible="false" DecodingWindowSize="115" DecodingWindowByteViewSize="87" UseWireSharkDissectors="false">
+      <ColumnSet Guid="e30abe35-ebba-43ad-a528-0c85bb4ebf7f" Name="CAN" Semantic="Factory">
+        <Column ID="Identifier" Width="184" SortOrder="Ascending" IsConfigured="true" />
+        <Column ID="Id" Width="126" SortOrder="None" IsConfigured="true" />
+        <Column ID="ControllerID" Width="25" SortOrder="None" IsConfigured="true" />
+        <Column ID="Name" Width="217" SortOrder="None" IsConfigured="true" />
+        <Column ID="Direction" Width="34" SortOrder="None" IsConfigured="true" />
+        <Column ID="DataLengthCode" Width="50" SortOrder="None" IsConfigured="true" />
+        <Column ID="RawBytes" Width="227" SortOrder="None" IsConfigured="true" />
+        <Column ID="Deltatime" Width="83" SortOrder="None" IsConfigured="false" />
+        <Column ID="MonitorTimestamp" Width="95" SortOrder="None" IsConfigured="false" />
+        <Column ID="IdFormat" Width="43" SortOrder="None" IsConfigured="false" />
+        <Column ID="BusStatusInformation" Width="75" SortOrder="None" IsConfigured="false" />
+        <Column ID="SynchronizedTimestamp" Width="75" SortOrder="None" IsConfigured="false" />
+        <Column ID="ApplicationTimestamp" Width="77" SortOrder="None" IsConfigured="false" />
+        <Column ID="ControllerName" Width="81" SortOrder="None" IsConfigured="false" />
+        <Column ID="DatabaseID" Width="75" SortOrder="None" IsConfigured="false" />
+        <Column ID="DatabaseName" Width="75" SortOrder="None" IsConfigured="false" />
+        <Column ID="MeasurementTimestamp" Width="59" SortOrder="None" IsConfigured="false" />
+        <Column ID="BlocksetType" Width="75" SortOrder="None" IsConfigured="false" />
+        <Column ID="Date" Width="75" SortOrder="None" IsConfigured="false" />
+        <Column ID="Time" Width="89" SortOrder="None" IsConfigured="false" />
+        <Column ID="DeltaTimeLastFrame" Width="130" SortOrder="None" IsConfigured="false" />
+        <Column ID="EcuName" Width="120" SortOrder="None" IsConfigured="false" />
+        <Column ID="BitRateSwitch" Width="80" SortOrder="None" IsConfigured="false" />
+        <Column ID="FrameCount" Width="80" SortOrder="None" IsConfigured="false" />
+        <Column ID="ServiceID" Width="80" SortOrder="None" IsConfigured="false" />
+        <Column ID="PlatformName" Width="80" SortOrder="None" IsConfigured="false" />
+      </ColumnSet>
+    </MonitoringViewSettings>
+    <NameResolutionMappings />
+  </Monitor>
+</BNVSerialization>

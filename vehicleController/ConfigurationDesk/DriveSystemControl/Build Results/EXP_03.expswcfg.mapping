@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhysicalAccesses xmlns:bar="http://www.dspace.com/xml/BAR_IO_Mapping_Description/1.0.0" xmlns:altova="http://www.altova.com/xml-schema-extensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.dspace.com/xml/BAR_IO_Mapping_Description/1.0.0" SchemaVersion="1.0" xmlns="http://www.dspace.com/xml/BAR_IO_Mapping_Description/1.x">
+  <ToolInfo dSPACERLSVersion="2023-B" Creator="ConfigurationDesk" CreatorVersion="23.2" />
+  <PhysicalAccess name="WIP (1)">
+    <BusAccessRequests>
+      <BusAccessRequest id="EXP_03\Bus Configuration (1)\Inspection\WIP\Virya Controller CAN File 08082024" />
+      <BusAccessRequest id="EXP_03\Bus Configuration (1)\Simulated ECUs\WIP\Virya Controller CAN File 08082024" />
+      <BusAccessRequest id="EXP_03\Bus Configuration (1)\Manipulation\WIP\Virya Controller CAN File 08082024" />
+    </BusAccessRequests>
+  </PhysicalAccess>
+</PhysicalAccesses>
