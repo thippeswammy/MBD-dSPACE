@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2227ae5a-20f8-4723-9298-1a5f122a8fe6" name="Changes" comment="" />
+    <list default="true" id="2227ae5a-20f8-4723-9298-1a5f122a8fe6" name="Changes" comment="rearrange the full project structure for better organization" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -165,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741593769257</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="rearrange the full project structure for better organization">
+      <option name="closed" value="true" />
+      <created>1741614759933</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1741614759933</updated>
+    </task>
+    <task id="LOCAL-00017" summary="rearrange the full project structure for better organization">
+      <option name="closed" value="true" />
+      <created>1741614787738</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741614787738</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +215,7 @@
     <MESSAGE value="Add ConfigurationDesk files for real vehicle motor control via BUS manager  &#10;&#10;- Implemented real-time vehicle control system with BUS management  &#10;- Enabled direct control of PVC motors and steering in a physical vehicle  &#10;- Conducted ECU-based HIL testing for real vehicle control using CAN-based communication with PVC motor" />
     <MESSAGE value="The ControlDesk files for motor control via ECU messaging with BUS management &#10; &#10;- Enabled direct control of PVC motors and steering in a physical vehicle  &#10;- Implemented ControlDesk files for controlling motors by sending messages to ECU  &#10;- Enabled motor and steering control through BUS manipulation, BUS simulation, and BUS inspection  &#10;- Integrated ECU-based vehicle control system with real-time testing capabilities  &#10;- Conducted ECU-based HIL testing using CAN-based communication with PVC motor" />
     <MESSAGE value="The MATLAB model for CAN message management with constant blocks &#10;&#10;- Developed MATLAB model for managing CAN messages  &#10;- Integrated constant blocks for signal substitution and processing  &#10;- Ensured seamless communication and data handling within the CAN network  &#10;- Supports real-time ECU-based testing and validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="The MATLAB model for CAN message management with constant blocks &#10;&#10;- Developed MATLAB model for managing CAN messages  &#10;- Integrated constant blocks for signal substitution and processing  &#10;- Ensured seamless communication and data handling within the CAN network  &#10;- Supports real-time ECU-based testing and validation" />
+    <MESSAGE value="rearrange the full project structure for better organization" />
+    <option name="LAST_COMMIT_MESSAGE" value="rearrange the full project structure for better organization" />
   </component>
 </project>
