@@ -1,0 +1,1096 @@
+<*GNU-Linker-generated-mapfile*> 
+generated for DSx86_32 platform 
+collect2 version 10.3.0
+c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/../../../../x86_64-linux-gnu/bin/ld.exe -plugin c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../libexec/gcc/x86_64-linux-gnu/10.3.0/liblto_plugin-0.dll -plugin-opt=c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../libexec/gcc/x86_64-linux-gnu/10.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\MURTI\AppData\Local\Temp\ccl8A9eh.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=c:\program files\dspace rcphil 2023-b\compiler\linux_4.14_gcc_10.3\target\x86_64-linux-gnu\bin\../../x86_64-linux-gnu --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crt1.o c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbegin.o -Lc:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0 -Lc:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc -Lc:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/../../../../x86_64-linux-gnu/lib/../lib64 -Lc:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/../../../../x86_64-linux-gnu/lib -Lc:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib -v --unresolved-symbols=ignore-all -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtend.o c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+GNU ld (GNU Binutils) 2.35
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+                              dssimengine_accesspoint.o64 (Car24withDspace232_DSRTInitMdl)
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64)
+                              rtosal_task.o64 (Car24withDspace232_DSRTMdlOutputs0)
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+                              C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64) (Car24withDspace232_output)
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_data.o64)
+                              C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64) (Car24withDspace232_P)
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtvdf.o64)
+                              C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64) (Car24withDspace232_rti_init_trc_pointers)
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64)
+                              C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64) (rt_InitInfAndNaN)
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+                              C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64) (rtGetInf)
+C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+                              C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64) (rtGetNaN)
+C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+                              c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (__libc_csu_init)
+
+Merging program properties
+
+Removed property 0xc0000002 to merge c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o (0x3) and c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o (not found)
+Removed property 0xc0000002 to merge c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o (not found) and c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o (0x3)
+
+As-needed library included to satisfy reference by file (symbol)
+
+libDsRealTimeTestingRP.so.1   rtosal_task.o64 (dsrtt_script_service_post_computation)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 mdladapter_mdlfunctions.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 mdlCode_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 data_in_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 data_out_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 fm_entry_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 fm_exit_ap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dssimengine_accesspoint.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dssimengine_api.o64
+ .group         0x0000000000000000        0x8 dssimengine_main.o64
+ .group         0x0000000000000000        0xc dssimengine_main.o64
+ .group         0x0000000000000000        0xc dssimengine_main.o64
+ .group         0x0000000000000000        0xc dssimengine_main.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dssimengine_main.o64
+ .group         0x0000000000000000        0x8 rtosal_task.o64
+ .group         0x0000000000000000        0xc rtosal_task.o64
+ .group         0x0000000000000000        0xc rtosal_task.o64
+ .group         0x0000000000000000        0xc rtosal_task.o64
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000000000        0x8 rtosal_task.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 rtosal_task.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 rtosal_taskap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 rtosal_simengineap.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 IOCode_Data.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 dssimengine_accesspoint_Voltage_Out.o64
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_data.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtvdf.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+ .note.GNU-stack
+                0x0000000000000000        0x0 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+                0x00000000000009ce                DS_TARGET_PLATFORM = 0x9ce
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib/libpthread.so
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib/librt.so
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib/libdl.so
+START GROUP
+LOAD mdladapter_mdlfunctions.o64
+LOAD mdlCode_ap.o64
+LOAD data_in_ap.o64
+LOAD data_out_ap.o64
+LOAD fm_entry_ap.o64
+LOAD fm_exit_ap.o64
+LOAD dssimengine_accesspoint.o64
+LOAD dssimengine_api.o64
+LOAD dssimengine_main.o64
+LOAD rtosal_task.o64
+LOAD rtosal_taskap.o64
+LOAD rtosal_simengineap.o64
+LOAD IOCode_Data.o64
+LOAD dssimengine_accesspoint_Voltage_Out.o64
+LOAD C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\SCALEXIO\lib64/libdsanalogoutdrv.so
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\SCALEXIO\lib64/libdscandrv.so
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\SCALEXIO\lib64/libdslindrv.so
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\SCALEXIO\lib64/libdsethernetinterfacemanagementdrv.so
+END GROUP
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\SCALEXIO\lib64/libDsRtLib.so
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\x86_64-linux-gnu\lib64/libstdc++.so
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib/libm.so
+START GROUP
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libm.so.6
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libmvec.so.1
+END GROUP
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\x86_64-linux-gnu\lib/libgcc_s.so
+START GROUP
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\x86_64-linux-gnu\lib\libgcc_s.so.1
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0\libgcc.a
+END GROUP
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0\libgcc.a
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib/libc.so
+START GROUP
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc.so.6
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\ld-linux-x86-64.so.2
+END GROUP
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\x86_64-linux-gnu\lib/libgcc_s.so
+START GROUP
+LOAD C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\x86_64-linux-gnu\lib\libgcc_s.so.1
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0\libgcc.a
+END GROUP
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0\libgcc.a
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+LOAD c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x0))
+                0x00000000000002a8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.interp         0x00000000000002a8       0x1c
+ *(.interp)
+ .interp        0x00000000000002a8       0x1c c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.note.gnu.build-id
+                0x00000000000002c4       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000002c4       0x24 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.note.ABI-tag   0x00000000000002e8       0x20
+ .note.ABI-tag  0x00000000000002e8       0x20 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.hash           0x0000000000000308      0x188
+ *(.hash)
+ .hash          0x0000000000000308      0x188 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.hash       0x0000000000000490       0x24
+ *(.gnu.hash)
+ .gnu.hash      0x0000000000000490       0x24 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.dynsym         0x00000000000004b8      0x588
+ *(.dynsym)
+ .dynsym        0x00000000000004b8      0x588 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.dynstr         0x0000000000000a40      0x9bb
+ *(.dynstr)
+ .dynstr        0x0000000000000a40      0x9bb c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.version    0x00000000000013fc       0x76
+ *(.gnu.version)
+ .gnu.version   0x00000000000013fc       0x76 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.version_d  0x0000000000001478        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000001478        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.gnu.version_r  0x0000000000001478       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001478       0x70 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.rela.dyn       0x00000000000014e8      0x858
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x00000000000014e8        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.ro
+                0x00000000000014e8        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.local
+                0x00000000000014e8       0x18 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTI18DsCApplicationMain
+                0x0000000000001500       0x48 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTV18DsCApplicationMain
+                0x0000000000001548       0xd8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel
+                0x0000000000001620       0xa8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.local.DW.ref.__gxx_personality_v0
+                0x00000000000016c8       0x18 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTI24DsCRtosAlPeriodic_Task_1
+                0x00000000000016e0       0x48 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro._ZTV24DsCRtosAlPeriodic_Task_1
+                0x0000000000001728       0x78 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.data.rel.ro.local
+                0x00000000000017a0       0x18 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ .rela.ctors    0x00000000000017b8       0x60 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001818      0x510 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x0000000000001d28        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001d28        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.init_array
+                0x0000000000001d28       0x18 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .rela.eh_frame
+                0x0000000000001d40        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+
+.rela.plt       0x0000000000001d40        0x0
+ *(.rela.plt)
+ .rela.plt      0x0000000000001d40        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.rela.iplt)
+                0x0000000000002000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000002000       0x17
+ *(SORT_NONE(.init))
+ .init          0x0000000000002000       0x12 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+                0x0000000000002000                _init
+ .init          0x0000000000002012        0x5 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.plt            0x0000000000002020       0x10
+ *(.plt)
+ .plt           0x0000000000002020       0x10 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.iplt)
+
+.plt.got        0x0000000000002030        0x8
+ *(.plt.got)
+ .plt.got       0x0000000000002030        0x8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000002030                __cxa_finalize@@GLIBC_2.2.5
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000002040     0x2e81
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely
+                0x0000000000002040       0x1a dssimengine_main.o64
+ .text.unlikely
+                0x000000000000205a       0x1a rtosal_task.o64
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *fill*         0x0000000000002074        0xc 
+ .text.startup  0x0000000000002080       0x29 dssimengine_main.o64
+                0x0000000000002080                _Z32__registerApplDsCApplicationMainv
+ *fill*         0x00000000000020a9        0x7 
+ .text.startup  0x00000000000020b0       0x12 rtosal_simengineap.o64
+                0x00000000000020b0                _Z21__registerRTTMPConfigv
+ *fill*         0x00000000000020c2        0xe 
+ .text.startup  0x00000000000020d0       0x14 IOCode_Data.o64
+                0x00000000000020d0                _Z31__registerResourceg_ResourceMapv
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *fill*         0x00000000000020e4        0xc 
+ .text          0x00000000000020f0       0x2b c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x00000000000020f0                _start
+ .text          0x000000000000211b        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ *fill*         0x000000000000211b        0x5 
+ .text          0x0000000000002120      0x109 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ *fill*         0x0000000000002229        0x7 
+ .text          0x0000000000002230       0x48 mdladapter_mdlfunctions.o64
+                0x0000000000002230                Car24withDspace232_APTerminateSimulation
+                0x0000000000002240                Car24withDspace232_APLastApplStateStopped
+                0x0000000000002260                Car24withDspace232_APStopSimulation
+                0x0000000000002270                Car24withDspace232_APPrintMessage
+ .text          0x0000000000002278        0x0 mdlCode_ap.o64
+ .text          0x0000000000002278        0x0 data_in_ap.o64
+ *fill*         0x0000000000002278        0x8 
+ .text          0x0000000000002280      0x30d data_out_ap.o64
+                0x0000000000002290                ap_write_Car24withDspace232_DataOutport3_P1_S1
+                0x00000000000022f0                ap_write_Car24withDspace232_DataOutport5_P1_S1
+                0x0000000000002350                ap_write_Car24withDspace232_DataOutport1_P1_S1
+                0x00000000000023b0                ap_write_Car24withDspace232_DataOutport2_P1_S1
+                0x0000000000002410                ap_write_Car24withDspace232_DataOutport6_P1_S1
+                0x0000000000002470                ap_write_Car24withDspace232_DataOutport4_P1_S1
+                0x00000000000024d0                ap_write_Car24withDspace232_DataOutport7_P1_S1
+                0x0000000000002530                ap_write_Car24withDspace232_DataOutport8_P1_S1
+ *fill*         0x000000000000258d        0x3 
+ .text          0x0000000000002590       0x10 fm_entry_ap.o64
+                0x0000000000002590                ap_entry_Car24withDspace232_SIDRoot_TID0
+ .text          0x00000000000025a0       0x10 fm_exit_ap.o64
+                0x00000000000025a0                ap_exit_Car24withDspace232_SIDRoot_TID0
+ .text          0x00000000000025b0      0xa63 dssimengine_accesspoint.o64
+                0x00000000000025b0                ApSimEngineOnInitMdl
+                0x00000000000025d0                ApSimEngineOnStartMdl
+                0x00000000000025f0                ApSimEngineOnStopMdl
+                0x0000000000002610                ApSimEngineOnTerminateMdl
+                0x0000000000002620                ApSimEngineOnUnloadMdl
+                0x0000000000002640                ApSimEngineOnInitImc
+                0x0000000000002660                ApSimEngineOnStartImc
+                0x0000000000002680                ApSimEngineOnStopImc
+                0x00000000000026a0                ApSimEngineOnTerminateImc
+                0x00000000000026c0                ApSimEngineOnUnloadImc
+                0x00000000000026e0                ApSimEngineOnInitIoPreRtosInit
+                0x00000000000027e0                ApSimEngineOnInitHwDiagnostics
+                0x0000000000002950                ApSimEngineOnStopIo
+                0x00000000000029d0                ApSimEngineOnTerminateIo
+                0x00000000000029f0                ApSimEngineOnUnloadIo
+                0x0000000000002a10                ApSimEngineOnInitRtos
+                0x0000000000002a60                ApSimEngineOnStartRtos
+                0x0000000000002a80                ApSimEngineOnStopRtos
+                0x0000000000002aa0                ApSimEngineOnStop
+                0x0000000000002af0                ApSimEngineOnTerminateRtos
+                0x0000000000002b10                ApSimEngineOnTerminate
+                0x0000000000002b60                ApSimEngineOnUnloadRtos
+                0x0000000000002b80                ApSimEngineOnUnload
+                0x0000000000002bd0                ApSimEngineIdle
+                0x0000000000002bf0                _Z22ApSimEngineRunTimeInitR16DsCErrorListPooli
+                0x0000000000002c70                ApSimEngineOnInitIoPostRtosInit
+                0x0000000000002ec0                ApSimEngineOnInit
+                0x0000000000002f20                ApSimEngineOnStartIo
+                0x0000000000002fd0                ApSimEngineOnStart
+ *fill*         0x0000000000003013        0xd 
+ .text          0x0000000000003020       0x57 dssimengine_api.o64
+                0x0000000000003020                _Z25SimEngineLastApplStateGetv
+                0x0000000000003030                _Z16SimEngineApplGetv
+                0x0000000000003040                _Z17SimEngineApplStopv
+                0x0000000000003060                _Z22SimEngineApplTerminatev
+ *fill*         0x0000000000003077        0x9 
+ .text          0x0000000000003080      0x187 dssimengine_main.o64
+                0x0000000000003080                destroyApplication
+                0x00000000000030a0                getApplicationErrorList
+                0x00000000000030b0                _ZN18DsCApplicationMainD1Ev
+                0x00000000000030b0                _ZN18DsCApplicationMainD2Ev
+                0x00000000000030e0                _ZN18DsCApplicationMainD0Ev
+                0x0000000000003100                _ZN18DsCApplicationMain6onInitER16DsCErrorListPool
+                0x0000000000003120                _ZN18DsCApplicationMain7onStartER16DsCErrorListPool
+                0x0000000000003140                _ZN18DsCApplicationMain6onStopER16DsCErrorListPool
+                0x0000000000003160                _ZN18DsCApplicationMain11onTerminateER16DsCErrorListPool
+                0x0000000000003180                _ZN18DsCApplicationMain8onUnloadER16DsCErrorListPool
+                0x0000000000003190                _ZN18DsCApplicationMain6onIdleER16DsCErrorListPool
+                0x00000000000031a0                _ZN18DsCApplicationMainC2ER16DsCErrorListPool
+                0x00000000000031a0                _ZN18DsCApplicationMainC1ER16DsCErrorListPool
+                0x00000000000031d0                createApplication
+ *fill*         0x0000000000003207        0x9 
+ .text          0x0000000000003210      0x322 rtosal_task.o64
+                0x0000000000003210                _ZN24DsCRtosAlPeriodic_Task_1D1Ev
+                0x0000000000003210                _ZN24DsCRtosAlPeriodic_Task_1D2Ev
+                0x0000000000003230                _ZN24DsCRtosAlPeriodic_Task_1D0Ev
+                0x0000000000003250                _ZN24DsCRtosAlPeriodic_Task_15onRunER16DsCErrorListPool
+                0x00000000000032a0                _ZN24DsCRtosAlPeriodic_Task_1C1ER16DsCErrorListPoolP14DsCApplicationPKcjjjjjjjP7DsCTaskj
+                0x00000000000032a0                _ZN24DsCRtosAlPeriodic_Task_1C2ER16DsCErrorListPoolP14DsCApplicationPKcjjjjjjjP7DsCTaskj
+                0x00000000000032f0                _ZN24DsCRtosAlPeriodic_Task_16createER16DsCErrorListPoolP14DsCApplicationPKcjjjjjjjP7DsCTaskj
+                0x00000000000033a0                _Z37RtosAlDefaultDeadlineViolationHandlerR16DsCErrorListPoolP7DsCTask
+                0x0000000000003440                _Z35RtosAlProfilerSourcesInitializationv
+                0x0000000000003450                _Z20RtosAlHandleOverrunsP7DsCTaski
+                0x0000000000003520                _ZN24DsCRtosAlPeriodic_Task_19onOverrunER16DsCErrorListPool
+ *fill*         0x0000000000003532        0xe 
+ .text          0x0000000000003540       0x77 rtosal_taskap.o64
+                0x0000000000003540                RtosAlTask_01_TaskEntry
+                0x0000000000003550                RtosAlTask_01_TaskExit
+ *fill*         0x00000000000035b7        0x9 
+ .text          0x00000000000035c0      0x24b rtosal_simengineap.o64
+                0x00000000000035c0                _Z12RtosAlOnInitR16DsCErrorListPool
+                0x0000000000003690                _Z13RtosAlOnStartR16DsCErrorListPool
+ .text          0x000000000000380b        0x0 IOCode_Data.o64
+ *fill*         0x000000000000380b        0x5 
+ .text          0x0000000000003810      0x87b dssimengine_accesspoint_Voltage_Out.o64
+                0x0000000000003810                _Z55ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutCarON_OFFLedR16DsCErrorListPool
+                0x0000000000003830                _Z53ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutCarON_OFFLedR16DsCErrorListPool
+                0x0000000000003850                _Z52ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutCarON_OFFLedR16DsCErrorListPool
+                0x0000000000003870                _Z63ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutCarON_OFFLedR16DsCErrorListPoolP14DsCApplication
+                0x0000000000003890                _Z64ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutCarON_OFFLedR16DsCErrorListPool
+                0x0000000000003920                _Z60ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutFordwardDirectionR16DsCErrorListPool
+                0x0000000000003940                _Z58ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutFordwardDirectionR16DsCErrorListPool
+                0x0000000000003960                _Z57ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutFordwardDirectionR16DsCErrorListPool
+                0x0000000000003980                _Z68ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutFordwardDirectionR16DsCErrorListPoolP14DsCApplication
+                0x00000000000039a0                _Z69ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutFordwardDirectionR16DsCErrorListPool
+                0x0000000000003a30                _Z60ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutBackwardDirectionR16DsCErrorListPool
+                0x0000000000003a50                _Z58ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutBackwardDirectionR16DsCErrorListPool
+                0x0000000000003a70                _Z57ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutBackwardDirectionR16DsCErrorListPool
+                0x0000000000003a90                _Z68ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutBackwardDirectionR16DsCErrorListPoolP14DsCApplication
+                0x0000000000003ab0                _Z69ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutBackwardDirectionR16DsCErrorListPool
+                0x0000000000003b40                _Z57ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutCarEngineSpeedR16DsCErrorListPool
+                0x0000000000003b60                _Z55ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutCarEngineSpeedR16DsCErrorListPool
+                0x0000000000003b80                _Z54ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutCarEngineSpeedR16DsCErrorListPool
+                0x0000000000003ba0                _Z65ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutCarEngineSpeedR16DsCErrorListPoolP14DsCApplication
+                0x0000000000003bc0                _Z66ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutCarEngineSpeedR16DsCErrorListPool
+                0x0000000000003c50                _Z64ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutHandBreakLightWarningR16DsCErrorListPool
+                0x0000000000003c70                _Z62ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutHandBreakLightWarningR16DsCErrorListPool
+                0x0000000000003c90                _Z61ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutHandBreakLightWarningR16DsCErrorListPool
+                0x0000000000003cb0                _Z72ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutHandBreakLightWarningR16DsCErrorListPoolP14DsCApplication
+                0x0000000000003cd0                _Z73ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutHandBreakLightWarningR16DsCErrorListPool
+                0x0000000000003d60                _Z56ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutCarWheelAngleR16DsCErrorListPool
+                0x0000000000003d80                _Z54ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutCarWheelAngleR16DsCErrorListPool
+                0x0000000000003da0                _Z53ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutCarWheelAngleR16DsCErrorListPool
+                0x0000000000003dc0                _Z64ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutCarWheelAngleR16DsCErrorListPoolP14DsCApplication
+                0x0000000000003de0                _Z65ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutCarWheelAngleR16DsCErrorListPool
+                0x0000000000003e70                _Z56ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutIndicatorLeftR16DsCErrorListPool
+                0x0000000000003e90                _Z54ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutIndicatorLeftR16DsCErrorListPool
+                0x0000000000003eb0                _Z53ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutIndicatorLeftR16DsCErrorListPool
+                0x0000000000003ed0                _Z64ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutIndicatorLeftR16DsCErrorListPoolP14DsCApplication
+                0x0000000000003ef0                _Z65ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutIndicatorLeftR16DsCErrorListPool
+                0x0000000000003f80                _Z57ApSimEngineRunTimeInit_ctlcBODY_0_DspaceOutIndicatorRightR16DsCErrorListPool
+                0x0000000000003fa0                _Z55ApSimEngineOnStartIo_ctlcBODY_0_DspaceOutIndicatorRightR16DsCErrorListPool
+                0x0000000000003fc0                _Z54ApSimEngineOnStopIo_ctlcBODY_0_DspaceOutIndicatorRightR16DsCErrorListPool
+                0x0000000000003fe0                _Z65ApSimEngineOnInitIoPreRtosInit_ctlcBODY_2_DspaceOutIndicatorRightR16DsCErrorListPoolP14DsCApplication
+                0x0000000000004000                _Z66ApSimEngineOnInitIoPostRtosInit_ctlcBODY_0_DspaceOutIndicatorRightR16DsCErrorListPool
+ *fill*         0x000000000000408b        0x5 
+ .text          0x0000000000004090      0x129 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+                0x0000000000004090                Car24withDspace232_DSRTCheckForErrorStatus
+                0x00000000000040e0                Car24withDspace232_DSRTInitMdl
+                0x0000000000004110                Car24withDspace232_DSRTStartMdl
+                0x0000000000004140                Car24withDspace232_DSRTStopMdl
+                0x0000000000004160                Car24withDspace232_DSRTCheckForSimulationStopCondition
+ *fill*         0x00000000000041b9        0x7 
+ .text          0x00000000000041c0       0x16 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64)
+                0x00000000000041c0                Car24withDspace232_DSRTMdlOutputs0
+                0x00000000000041d0                Car24withDspace232_DSRTMdlUpdate0
+ *fill*         0x00000000000041d6        0xa 
+ .text          0x00000000000041e0      0xa31 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+                0x00000000000041e0                Car24withDspace232_output
+                0x0000000000004ac0                Car24withDspace232_update
+                0x0000000000004b50                Car24withDspace232_initialize
+                0x0000000000004c10                Car24withDspace232_terminate
+ .text          0x0000000000004c11        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_data.o64)
+ *fill*         0x0000000000004c11        0xf 
+ .text          0x0000000000004c20       0x9c C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtvdf.o64)
+                0x0000000000004cb0                Car24withDspace232_rti_init_trc_pointers
+ *fill*         0x0000000000004cbc        0x4 
+ .text          0x0000000000004cc0      0x136 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64)
+                0x0000000000004cc0                rt_InitInfAndNaN
+                0x0000000000004d30                rtIsInf
+                0x0000000000004d60                rtIsInfF
+                0x0000000000004d90                rtIsNaN
+                0x0000000000004dd0                rtIsNaNF
+ *fill*         0x0000000000004df6        0xa 
+ .text          0x0000000000004e00       0x39 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+                0x0000000000004e00                rtGetInf
+                0x0000000000004e10                rtGetInfF
+                0x0000000000004e20                rtGetMinusInf
+                0x0000000000004e30                rtGetMinusInfF
+ *fill*         0x0000000000004e39        0x7 
+ .text          0x0000000000004e40       0x19 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+                0x0000000000004e40                rtGetNaN
+                0x0000000000004e50                rtGetNaNF
+ *fill*         0x0000000000004e59        0x7 
+ .text          0x0000000000004e60       0x61 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+                0x0000000000004e60                __libc_csu_init
+                0x0000000000004ec0                __libc_csu_fini
+ .text          0x0000000000004ec1        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+ .text          0x0000000000004ec1        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000000000004ec4        0xe
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000004ec4        0x4 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+                0x0000000000004ec4                _fini
+ .fini          0x0000000000004ec8        0x5 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ .fini          0x0000000000004ecd        0x5 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000005000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000005000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000005000      0x3e4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000000000005000        0x4 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000005000                _IO_stdin_used
+ *fill*         0x0000000000005004        0x4 
+ .rodata        0x0000000000005008        0x8 dssimengine_accesspoint.o64
+ .rodata._ZTS18DsCApplicationMain
+                0x0000000000005010       0x15 dssimengine_main.o64
+                0x0000000000005010                _ZTS18DsCApplicationMain
+ .rodata.str1.1
+                0x0000000000005025       0x2a dssimengine_main.o64
+ .rodata.str1.1
+                0x000000000000504f       0x3d rtosal_task.o64
+ *fill*         0x000000000000508c        0x4 
+ .rodata.str1.8
+                0x0000000000005090       0xee rtosal_task.o64
+ *fill*         0x000000000000517e        0x2 
+ .rodata._ZTS24DsCRtosAlPeriodic_Task_1
+                0x0000000000005180       0x1b rtosal_task.o64
+                0x0000000000005180                _ZTS24DsCRtosAlPeriodic_Task_1
+ *fill*         0x000000000000519b        0x5 
+ .rodata.cst8   0x00000000000051a0        0x8 rtosal_taskap.o64
+ .rodata.str1.8
+                0x00000000000051a8       0x62 rtosal_simengineap.o64
+ .rodata.str1.1
+                0x000000000000520a       0x44 rtosal_simengineap.o64
+ *fill*         0x000000000000524e        0x2 
+ .rodata.cst8   0x0000000000005250        0x8 rtosal_simengineap.o64
+                                         0x10 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000005258        0xe IOCode_Data.o64
+ .rodata.str1.1
+                0x0000000000005266       0xaa dssimengine_accesspoint_Voltage_Out.o64
+ .rodata.str1.8
+                0x0000000000005310       0x1f dssimengine_accesspoint_Voltage_Out.o64
+ .rodata.str1.1
+                0x000000000000532f       0x14 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+ *fill*         0x0000000000005343        0x5 
+ .rodata.str1.8
+                0x0000000000005348       0x29 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+ *fill*         0x0000000000005371        0x7 
+ .rodata.cst8   0x0000000000005378       0x28 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+                                         0x30 (size before relaxing)
+ .rodata.cst16  0x00000000000053a0       0x20 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+ .rodata.cst8   0x00000000000053c0       0x10 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+ .rodata.cst4   0x00000000000053d0        0x8 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+ .rodata.cst8   0x00000000000053d8        0x8 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+ .rodata.cst4   0x00000000000053e0        0x4 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00000000000053e4      0x4ac
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000000053e4      0x4ac c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x00000000000053e4                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000005890     0x1150
+ *(.eh_frame)
+ .eh_frame      0x0000000000005890       0x30 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                         0x2c (size before relaxing)
+ *fill*         0x00000000000058c0        0x0 
+ .eh_frame      0x00000000000058c0       0x40 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .eh_frame      0x0000000000005900       0x18 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005918       0x58 mdladapter_mdlfunctions.o64
+                                         0x70 (size before relaxing)
+ .eh_frame      0x0000000000005970       0xb8 data_out_ap.o64
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000005a28       0x18 fm_entry_ap.o64
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005a40       0x18 fm_exit_ap.o64
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005a58      0x3a0 dssimengine_accesspoint.o64
+                                        0x3b8 (size before relaxing)
+ .eh_frame      0x0000000000005df8       0x58 dssimengine_api.o64
+                                         0x70 (size before relaxing)
+ .eh_frame      0x0000000000005e50      0x1b8 dssimengine_main.o64
+                                        0x1d0 (size before relaxing)
+ .eh_frame      0x0000000000006008      0x1e0 rtosal_task.o64
+                                        0x218 (size before relaxing)
+ .eh_frame      0x00000000000061e8       0x30 rtosal_taskap.o64
+                                         0x48 (size before relaxing)
+ .eh_frame      0x0000000000006218       0xb8 rtosal_simengineap.o64
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x00000000000062d0       0x18 IOCode_Data.o64
+                                         0x30 (size before relaxing)
+ .eh_frame      0x00000000000062e8      0x400 dssimengine_accesspoint_Voltage_Out.o64
+                                        0x418 (size before relaxing)
+ .eh_frame      0x00000000000066e8       0xa8 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+                                         0xc0 (size before relaxing)
+ .eh_frame      0x0000000000006790       0x28 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000067b8       0xa8 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+                                         0xc0 (size before relaxing)
+ .eh_frame      0x0000000000006860       0x40 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtvdf.o64)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x00000000000068a0       0x68 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000006908       0x50 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000006958       0x28 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000006980       0x5c C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+                                         0x78 (size before relaxing)
+ .eh_frame      0x00000000000069dc        0x4 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+                0x00000000000069e0       0x2a
+ *(.gcc_except_table .gcc_except_table.*)
+ .gcc_except_table
+                0x00000000000069e0       0x14 dssimengine_main.o64
+ .gcc_except_table
+                0x00000000000069f4       0x16 rtosal_task.o64
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x0000000000007af0                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x0000000000007af0        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000007af0        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000007af0       0x28
+                0x0000000000007af0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000007af0        0x8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ .ctors         0x0000000000007af8       0x10 dssimengine_main.o64
+ .ctors         0x0000000000007b08        0x8 rtosal_simengineap.o64
+ .ctors         0x0000000000007b10        0x8 IOCode_Data.o64
+                0x0000000000007b18                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000007b18        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors          0x0000000000007b18       0x10
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x0000000000007b18        0x8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ .ctors         0x0000000000007b20        0x8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+
+.dtors          0x0000000000007b28       0x10
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x0000000000007b28        0x8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ .dtors         0x0000000000007b30        0x8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+                0x0000000000007b30                __DTOR_END__
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000007b38       0xb8
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local
+                0x0000000000007b38        0x8 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+                0x0000000000007b38                Car24withDspace232_M
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000007b40        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .data.rel.ro._ZTI18DsCApplicationMain
+                0x0000000000007b40       0x18 dssimengine_main.o64
+                0x0000000000007b40                _ZTI18DsCApplicationMain
+ .data.rel.ro._ZTV18DsCApplicationMain
+                0x0000000000007b58       0x50 dssimengine_main.o64
+                0x0000000000007b58                _ZTV18DsCApplicationMain
+ .data.rel.ro._ZTI24DsCRtosAlPeriodic_Task_1
+                0x0000000000007ba8       0x18 rtosal_task.o64
+                0x0000000000007ba8                _ZTI24DsCRtosAlPeriodic_Task_1
+ .data.rel.ro._ZTV24DsCRtosAlPeriodic_Task_1
+                0x0000000000007bc0       0x30 rtosal_task.o64
+                0x0000000000007bc0                _ZTV24DsCRtosAlPeriodic_Task_1
+
+.dynamic        0x0000000000007bf0      0x260
+ *(.dynamic)
+ .dynamic       0x0000000000007bf0      0x260 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000007bf0                _DYNAMIC
+
+.got            0x0000000000007e50      0x1b0
+ *(.got)
+ .got           0x0000000000007e50      0x1b0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.igot)
+                0x0000000000008fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000008000       0x18
+ *(.got.plt)
+ .got.plt       0x0000000000008000       0x18 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000008000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000008020      0x2c8
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000008020        0x4 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                0x0000000000008020                __data_start
+                0x0000000000008020                data_start
+ .data          0x0000000000008024        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .data          0x0000000000008024        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ *fill*         0x0000000000008024        0x4 
+ .data.rel.local
+                0x0000000000008028        0x8 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+                0x0000000000008028                __dso_handle
+ .data          0x0000000000008030        0x0 mdladapter_mdlfunctions.o64
+ .data          0x0000000000008030        0x0 mdlCode_ap.o64
+ .data          0x0000000000008030        0x0 data_in_ap.o64
+ .data          0x0000000000008030        0x0 data_out_ap.o64
+ .data          0x0000000000008030        0x0 fm_entry_ap.o64
+ .data          0x0000000000008030        0x0 fm_exit_ap.o64
+ .data          0x0000000000008030        0x1 dssimengine_accesspoint.o64
+                0x0000000000008030                isFirstSimulation
+ .data          0x0000000000008031        0x0 dssimengine_api.o64
+ *fill*         0x0000000000008031        0x3 
+ .data          0x0000000000008034        0xc dssimengine_main.o64
+                0x0000000000008034                DsFwIfVersion
+                0x0000000000008038                DsApplIfVersion
+                0x000000000000803c                SimEngineLastApplState
+ .data.rel      0x0000000000008040       0x58 dssimengine_main.o64
+                0x0000000000008040                ApplInfoDsCApplicationMain
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000008098        0x8 dssimengine_main.o64
+                0x0000000000008098                DW.ref.__gxx_personality_v0
+ .data          0x00000000000080a0        0x0 rtosal_task.o64
+ .data          0x00000000000080a0        0x0 rtosal_taskap.o64
+ .data          0x00000000000080a0       0x10 rtosal_simengineap.o64
+                0x00000000000080a0                ScalingFactor
+                0x00000000000080a8                g_dsrtt_comm_enabled
+ *fill*         0x00000000000080b0       0x10 
+ .data          0x00000000000080c0       0xa4 IOCode_Data.o64
+                0x00000000000080c0                g_ResourceMap
+ .data          0x0000000000008164        0x0 dssimengine_accesspoint_Voltage_Out.o64
+ .data          0x0000000000008164        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+ .data          0x0000000000008164        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64)
+ .data          0x0000000000008164        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+ *fill*         0x0000000000008164       0x1c 
+ .data          0x0000000000008180      0x168 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_data.o64)
+                0x0000000000008180                Car24withDspace232_P
+ .data          0x00000000000082e8        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtvdf.o64)
+ .data          0x00000000000082e8        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64)
+ .data          0x00000000000082e8        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+ .data          0x00000000000082e8        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+ .data          0x00000000000082e8        0x0 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .data          0x00000000000082e8        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+ .data          0x00000000000082e8        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.tm_clone_table
+                0x00000000000082e8        0x0
+ .tm_clone_table
+                0x00000000000082e8        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ .tm_clone_table
+                0x00000000000082e8        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+
+.data1
+ *(.data1)
+                0x00000000000082e8                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x00000000000082e8                . = .
+                0x00000000000082e8                __bss_start = .
+
+.bss            0x0000000000008300     0x6290
+ *(.dynbss)
+ .dynbss        0x0000000000008300        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000008300        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .bss           0x0000000000008300        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .bss           0x0000000000008300       0x10 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+ .bss           0x0000000000008310        0x0 mdladapter_mdlfunctions.o64
+ .bss           0x0000000000008310        0x0 mdlCode_ap.o64
+ .bss           0x0000000000008310        0x0 data_in_ap.o64
+ .bss           0x0000000000008310        0x0 data_out_ap.o64
+ .bss           0x0000000000008310        0x0 fm_entry_ap.o64
+ .bss           0x0000000000008310        0x0 fm_exit_ap.o64
+ .bss           0x0000000000008310       0x88 dssimengine_accesspoint.o64
+                0x0000000000008310                xilApiEesPortTrigger
+                0x0000000000008318                xilApiEesPortFlags
+                0x0000000000008320                pXilApiEesPortFsxErrorSwitching
+                0x0000000000008328                pXilApiEesPortFsxErrorActivated
+                0x0000000000008330                pXilApiEesPortFsxActiveErrorSet
+                0x0000000000008338                pXilApiEesPortErrorSwitching
+                0x0000000000008340                pXilApiEesPortErrorActivated
+                0x0000000000008348                pXilApiEesPortActiveErrorSet
+                0x0000000000008350                pFailureSimulationRelaySwitching
+                0x0000000000008358                pFailureSimulationSequenceCount
+                0x0000000000008360                pFailureSimulationFailureActivated
+                0x0000000000008368                pFailureSimulationFailureConfigured
+                0x0000000000008370                pFailureSimulationClientConnected
+                0x0000000000008378                pAppMaximumMemoryUsage
+                0x0000000000008380                pAppCurrentMemoryUsage
+                0x0000000000008388                pFuseRestoreRequest
+                0x0000000000008390                pFuseActualStatus
+ .bss           0x0000000000008398        0x0 dssimengine_api.o64
+ .bss           0x0000000000008398       0x10 dssimengine_main.o64
+                0x0000000000008398                _ZN18DsCApplicationMain11s_pInstanceE
+                0x00000000000083a0                ErrorList
+ .bss           0x00000000000083a8       0x28 rtosal_task.o64
+                0x00000000000083a8                StepCounter_Periodic_Task_1
+                0x00000000000083b0                RtosAlTaskSimTime_Periodic_Task_1
+                0x00000000000083b8                pRtosAlTimer_Periodic_Task_1
+                0x00000000000083c0                pRtosAlPeriodic_Task_1
+                0x00000000000083c8                _ZN24DsCRtosAlPeriodic_Task_111m_pInstanceE
+ .bss           0x00000000000083d0        0x0 rtosal_taskap.o64
+ *fill*         0x00000000000083d0       0x10 
+ .bss           0x00000000000083e0       0x58 rtosal_simengineap.o64
+                0x00000000000083e0                Periodic_Task_1Vars_OvnCounter
+                0x00000000000083e0                Periodic_Task_1Vars
+                0x00000000000083e8                Periodic_Task_1Vars_TurnaroundTime
+                0x00000000000083f0                Periodic_Task_1Vars_Calls
+                0x00000000000083f8                Periodic_Task_1Vars_QueueCounter
+                0x0000000000008400                Periodic_Task_1Vars_AbsoluteTime
+                0x0000000000008430                ScaledTimeInterval
+ .bss           0x0000000000008438      0x148 IOCode_Data.o64
+                0x0000000000008438                car24withdspace232_fcnModule_SIDRoot_TID0
+                0x0000000000008440                dspaceOutIndicatorRight_Voltage_TA_Replacevalue
+                0x0000000000008448                dspaceOutIndicatorRight_Voltage_TA_Switchvalue
+                0x0000000000008450                dspaceOutIndicatorRight_Voltage_IO_Signal
+                0x0000000000008458                dspaceOutIndicatorRight_Voltage_MDL_Signal
+                0x0000000000008460                dspaceOutIndicatorLeft_Voltage_TA_Replacevalue
+                0x0000000000008468                dspaceOutIndicatorLeft_Voltage_TA_Switchvalue
+                0x0000000000008470                dspaceOutIndicatorLeft_Voltage_IO_Signal
+                0x0000000000008478                dspaceOutIndicatorLeft_Voltage_MDL_Signal
+                0x0000000000008480                dspaceOutCarWheelAngle_Voltage_TA_Replacevalue
+                0x0000000000008488                dspaceOutCarWheelAngle_Voltage_TA_Switchvalue
+                0x0000000000008490                dspaceOutCarWheelAngle_Voltage_IO_Signal
+                0x0000000000008498                dspaceOutCarWheelAngle_Voltage_MDL_Signal
+                0x00000000000084a0                dspaceOutHandBreakLightWarning_Voltage_TA_Replacevalue
+                0x00000000000084a8                dspaceOutHandBreakLightWarning_Voltage_TA_Switchvalue
+                0x00000000000084b0                dspaceOutHandBreakLightWarning_Voltage_IO_Signal
+                0x00000000000084b8                dspaceOutHandBreakLightWarning_Voltage_MDL_Signal
+                0x00000000000084c0                dspaceOutCarEngineSpeed_Voltage_TA_Replacevalue
+                0x00000000000084c8                dspaceOutCarEngineSpeed_Voltage_TA_Switchvalue
+                0x00000000000084d0                dspaceOutCarEngineSpeed_Voltage_IO_Signal
+                0x00000000000084d8                dspaceOutCarEngineSpeed_Voltage_MDL_Signal
+                0x00000000000084e0                dspaceOutBackwardDirection_Voltage_TA_Replacevalue
+                0x00000000000084e8                dspaceOutBackwardDirection_Voltage_TA_Switchvalue
+                0x00000000000084f0                dspaceOutBackwardDirection_Voltage_IO_Signal
+                0x00000000000084f8                dspaceOutBackwardDirection_Voltage_MDL_Signal
+                0x0000000000008500                dspaceOutFordwardDirection_Voltage_TA_Replacevalue
+                0x0000000000008508                dspaceOutFordwardDirection_Voltage_TA_Switchvalue
+                0x0000000000008510                dspaceOutFordwardDirection_Voltage_IO_Signal
+                0x0000000000008518                dspaceOutFordwardDirection_Voltage_MDL_Signal
+                0x0000000000008520                dspaceOutCarON_OFFLed_Voltage_TA_Replacevalue
+                0x0000000000008528                dspaceOutCarON_OFFLed_Voltage_TA_Switchvalue
+                0x0000000000008530                dspaceOutCarON_OFFLed_Voltage_IO_Signal
+                0x0000000000008538                dspaceOutCarON_OFFLed_Voltage_MDL_Signal
+                0x0000000000008540                pDspaceOutIndicatorRight_DriverHandle
+                0x0000000000008548                pDspaceOutIndicatorLeft_DriverHandle
+                0x0000000000008550                pDspaceOutCarWheelAngle_DriverHandle
+                0x0000000000008558                pDspaceOutHandBreakLightWarning_DriverHandle
+                0x0000000000008560                pDspaceOutCarEngineSpeed_DriverHandle
+                0x0000000000008568                pDspaceOutBackwardDirection_DriverHandle
+                0x0000000000008570                pDspaceOutFordwardDirection_DriverHandle
+                0x0000000000008578                pDspaceOutCarON_OFFLed_DriverHandle
+ .bss           0x0000000000008580        0x0 dssimengine_accesspoint_Voltage_Out.o64
+ .bss           0x0000000000008580        0x4 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+                0x0000000000008580                DSRTStopSimulation
+ .bss           0x0000000000008584        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64)
+ *fill*         0x0000000000008584       0x1c 
+ .bss           0x00000000000085a0     0x5f98 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+                0x00000000000085a0                Car24withDspace232_DW
+                0x000000000000e380                Car24withDspace232_B
+ .bss           0x000000000000e538        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_data.o64)
+ .bss           0x000000000000e538       0x30 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtvdf.o64)
+                0x000000000000e538                p_0_Car24withDspace232_real_T_0
+                0x000000000000e540                p_0_Car24withDspace232_int32_T_1
+                0x000000000000e548                p_0_Car24withDspace232_uint16_T_2
+                0x000000000000e550                p_0_Car24withDspace232_boolean_T_3
+                0x000000000000e558                p_1_Car24withDspace232_real_T_0
+                0x000000000000e560                p_2_Car24withDspace232_real_T_0
+ .bss           0x000000000000e568       0x28 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64)
+                0x000000000000e568                rtNaNF
+                0x000000000000e56c                rtMinusInfF
+                0x000000000000e570                rtInfF
+                0x000000000000e578                rtNaN
+                0x000000000000e580                rtMinusInf
+                0x000000000000e588                rtInf
+ .bss           0x000000000000e590        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+ .bss           0x000000000000e590        0x0 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+ .bss           0x000000000000e590        0x0 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .bss           0x000000000000e590        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+ .bss           0x000000000000e590        0x0 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+ *(COMMON)
+                0x000000000000e590                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x000000000000e590                . = ALIGN (0x8)
+                0x000000000000e590                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000010590        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000010590                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000010590                . = ALIGN (0x8)
+                0x000000000000e590                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000010590                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x3c
+ *(.comment)
+ .comment       0x0000000000000000       0x12 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                         0x26 (size before relaxing)
+ .comment       0x0000000000000012       0x2a c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtbeginS.o
+                                         0x2b (size before relaxing)
+ .comment       0x000000000000003c       0x13 mdladapter_mdlfunctions.o64
+ .comment       0x000000000000003c       0x13 mdlCode_ap.o64
+ .comment       0x000000000000003c       0x13 data_in_ap.o64
+ .comment       0x000000000000003c       0x13 data_out_ap.o64
+ .comment       0x000000000000003c       0x13 fm_entry_ap.o64
+ .comment       0x000000000000003c       0x13 fm_exit_ap.o64
+ .comment       0x000000000000003c       0x13 dssimengine_accesspoint.o64
+ .comment       0x000000000000003c       0x13 dssimengine_api.o64
+ .comment       0x000000000000003c       0x13 dssimengine_main.o64
+ .comment       0x000000000000003c       0x13 rtosal_task.o64
+ .comment       0x000000000000003c       0x13 rtosal_taskap.o64
+ .comment       0x000000000000003c       0x13 rtosal_simengineap.o64
+ .comment       0x000000000000003c       0x13 IOCode_Data.o64
+ .comment       0x000000000000003c       0x13 dssimengine_accesspoint_Voltage_Out.o64
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtmdlfcn.o64)
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrttf.o64)
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232.o64)
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_data.o64)
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(Car24withDspace232_dsrtvdf.o64)
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rt_nonfinite.o64)
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetInf.o64)
+ .comment       0x000000000000003c       0x13 C:\Users\MURTI\AppData\Local\Temp\dSPACE\CfgDesk\AppCache\4\Build\Car24withDspace232\Compile\Car24withDspace232\Car24withDspace232.a(rtGetNaN.o64)
+ .comment       0x000000000000003c       0x13 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .comment       0x000000000000003c       0x2b c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../lib/gcc/x86_64-linux-gnu/10.3.0/crtendS.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x120
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x70 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_aranges
+                0x0000000000000070       0x40 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_aranges
+                0x00000000000000b0       0x30 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .debug_aranges
+                0x00000000000000e0       0x40 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x71c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x53f c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_info    0x000000000000053f       0x22 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_info    0x0000000000000561      0x199 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .debug_info    0x00000000000006fa       0x22 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_abbrev   0x0000000000000000      0x2a1
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x153 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_abbrev  0x0000000000000153       0x12 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_abbrev  0x0000000000000165      0x12a C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .debug_abbrev  0x000000000000028f       0x12 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_line     0x0000000000000000      0x332
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x154 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+ .debug_line    0x0000000000000154       0x65 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_line    0x00000000000001b9      0x118 C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+ .debug_line    0x00000000000002d1       0x61 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x4b6
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x366 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/Scrt1.o
+                                        0x4e6 (size before relaxing)
+ .debug_str     0x0000000000000366       0x19 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+                                         0x51 (size before relaxing)
+ .debug_str     0x000000000000037f      0x11e C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+                                        0x18a (size before relaxing)
+ .debug_str     0x000000000000049d       0x19 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+                                         0x51 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x16f
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x16f C:\Program Files\dSPACE RCPHIL 2023-B\Compiler\Linux_4.14_GCC_10.3\target\x86_64-linux-gnu\lib\libc_nonshared.a(elf-init.oS)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x80
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x40 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crti.o
+ .debug_ranges  0x0000000000000040       0x40 c:/program files/dspace rcphil 2023-b/compiler/linux_4.14_gcc_10.3/target/x86_64-linux-gnu/bin/../../x86_64-linux-gnu/lib/crtn.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(Car24withDspace232.x64 elf64-x86-64)
