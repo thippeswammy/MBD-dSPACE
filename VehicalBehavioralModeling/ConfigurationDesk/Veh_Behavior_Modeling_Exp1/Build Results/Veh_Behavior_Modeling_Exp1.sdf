@@ -1,0 +1,15 @@
+[System]
+Version=2.2
+SystemType=SingleProcessorSystem
+DAQService=DsDAQ
+DsDAQBackground=1
+Status=Start
+File=Veh_Behavior_Modeling_Exp1.rta
+RTP=1
+
+[1]
+ID=69efb5e2-3d70-47db-a8d1-b35cd3709966
+Type=DSRTPC
+ServiceID=1
+TraceFile=Car24withDspace232.trc
+
