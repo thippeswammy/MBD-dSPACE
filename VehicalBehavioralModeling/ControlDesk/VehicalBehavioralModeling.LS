@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root>
+	<PythonScriptComponent/>
 	<ProjectExperiment>
 		<viewflags>
 			<Name type="key">VehicalBehavioralModeling.CDP</Name>

@@ -317,14 +317,55 @@
         <String Role="ArgName">FitToWidthMode</String>
         <Int Role="ArgValue">1</Int>
         <String Role="ArgName">ExpansionStatus</String>
-        <ExpansionStatus Role="ArgValue" />
+        <ExpansionStatus Role="ArgValue">
+          <Item Role="Block" OrderingID="10" Expanded="0" />
+          <Item Role="Block" OrderingID="10r0" Expanded="0" />
+          <Item Role="Block" OrderingID="10l0" Expanded="0" />
+          <Item Role="Block" OrderingID="10l1" Expanded="0" />
+          <Item Role="Block" OrderingID="11" Expanded="0" />
+          <Item Role="Block" OrderingID="11r0" Expanded="0" />
+          <Item Role="Block" OrderingID="11l0" Expanded="0" />
+          <Item Role="Block" OrderingID="11l1" Expanded="0" />
+          <Item Role="Block" OrderingID="12" Expanded="0" />
+          <Item Role="Block" OrderingID="12r0" Expanded="0" />
+          <Item Role="Block" OrderingID="12l0" Expanded="0" />
+          <Item Role="Block" OrderingID="12l1" Expanded="0" />
+          <Item Role="Block" OrderingID="13" Expanded="0" />
+          <Item Role="Block" OrderingID="13r0" Expanded="0" />
+          <Item Role="Block" OrderingID="13l0" Expanded="0" />
+          <Item Role="Block" OrderingID="13l1" Expanded="0" />
+          <Item Role="Block" OrderingID="14" Expanded="0" />
+          <Item Role="Block" OrderingID="14r0" Expanded="0" />
+          <Item Role="Block" OrderingID="14l0" Expanded="0" />
+          <Item Role="Block" OrderingID="14l1" Expanded="0" />
+          <Item Role="Block" OrderingID="15" Expanded="0" />
+          <Item Role="Block" OrderingID="15r0" Expanded="0" />
+          <Item Role="Block" OrderingID="15l0" Expanded="0" />
+          <Item Role="Block" OrderingID="15l1" Expanded="0" />
+          <Item Role="Block" OrderingID="16" Expanded="0" />
+          <Item Role="Block" OrderingID="16r0" Expanded="0" />
+          <Item Role="Block" OrderingID="16l0" Expanded="0" />
+          <Item Role="Block" OrderingID="16l1" Expanded="0" />
+          <Item Role="Block" OrderingID="17" Expanded="0" />
+          <Item Role="Block" OrderingID="17r0" Expanded="0" />
+          <Item Role="Block" OrderingID="17l0" Expanded="0" />
+          <Item Role="Block" OrderingID="17l1" Expanded="0" />
+          <Item Role="Block" OrderingID="20" Expanded="0" />
+          <Item Role="Block" OrderingID="21" Expanded="0" />
+          <Item Role="Block" OrderingID="22" Expanded="0" />
+          <Item Role="Block" OrderingID="23" Expanded="0" />
+          <Item Role="Block" OrderingID="24" Expanded="0" />
+          <Item Role="Block" OrderingID="25" Expanded="0" />
+          <Item Role="Block" OrderingID="26" Expanded="0" />
+          <Item Role="Block" OrderingID="27" Expanded="0" />
+        </ExpansionStatus>
         <String Role="ArgName">TotalWidthPercent</String>
         <String Role="ArgValue">1</String>
         <String Role="ArgName">ColumnVisibleStatus</String>
         <ColumnVisibleStatus Role="ArgValue">
-          <Item Role="Column" ColumnNr="0" Visible="True" WidthPercent="0.34232366" />
-          <Item Role="Column" ColumnNr="1" Visible="True" WidthPercent="0.34232366" />
-          <Item Role="Column" ColumnNr="2" Visible="True" WidthPercent="0.3153527" />
+          <Item Role="Column" ColumnNr="0" Visible="True" WidthPercent="0.34234235" />
+          <Item Role="Column" ColumnNr="1" Visible="True" WidthPercent="0.34234235" />
+          <Item Role="Column" ColumnNr="2" Visible="True" WidthPercent="0.3153153" />
         </ColumnVisibleStatus>
         <String Role="ArgName">History</String>
         <History Role="ArgValue" />

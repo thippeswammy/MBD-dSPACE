@@ -131,7 +131,7 @@
 					<RestoreInfopmdn type="key">Platform</RestoreInfopmdn>
 					<RestoreInfopmid type="key">53cc3a31-fe4c-40b9-bae5-d65d88d8c37b</RestoreInfopmid>
 					<Name type="key">53cc3a31-fe4c-40b9-bae5-d65d88d8c37b</Name>
-					<DisplayName type="key">Platform [SCALEXIO Platform, assigned to 'SCALEXIO_3']</DisplayName>
+					<DisplayName type="key">Platform [SCALEXIO Platform, assigned to 'SCALEXIO_2']</DisplayName>
 					<Flags type="key">128</Flags>
 					<ExtendedFlags type="key">3072</ExtendedFlags>
 					<Type type="key">6</Type>
@@ -143,9 +143,9 @@
 					<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
 					<item>
 						<Component type="key">VariablesManagement</Component>
-						<Name type="key">Car23WithdSPACE1_2.sdf</Name>
-						<DisplayName type="key">Car23WithdSPACE1_2.sdf</DisplayName>
-						<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+						<Name type="key">DriveSystemControl.sdf</Name>
+						<DisplayName type="key">DriveSystemControl.sdf</DisplayName>
+						<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 						<Flags type="key">18704</Flags>
 						<Type type="key">7</Type>
 						<UniqueID type="key">643459102</UniqueID>
@@ -157,14 +157,14 @@
 						<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
 						<item>
 							<Component type="key">VariablesManagement</Component>
-							<Name type="key">Car23WithdSPACE1_2.vdp</Name>
-							<DisplayName type="key">Car23WithdSPACE1_2.vdp</DisplayName>
-							<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+							<Name type="key">DriveSystemControl.vdp</Name>
+							<DisplayName type="key">DriveSystemControl.vdp</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 							<Flags type="key">18692</Flags>
 							<Type type="key">4</Type>
-							<UniqueID type="key">254842666</UniqueID>
-							<EntityID type="key">{F12A7CC4-B3AF-4D74-811D-37934FD5CB0F}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:52</ItemInfoDate>
+							<UniqueID type="key">490109265</UniqueID>
+							<EntityID type="key">{58C339F5-B15A-44FC-A840-9AD08154270D}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:52</ItemInfoDate>
 							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
@@ -174,12 +174,12 @@
 							<Component type="key">VariablesManagement</Component>
 							<Name type="key">.metadata</Name>
 							<DisplayName type="key">.metadata</DisplayName>
-							<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 							<Flags type="key">18692</Flags>
 							<Type type="key">4</Type>
-							<UniqueID type="key">82323368</UniqueID>
-							<EntityID type="key">{B3FDC500-BCC6-4CDC-9FD0-54AB3BD0F2AE}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+							<UniqueID type="key">344076591</UniqueID>
+							<EntityID type="key">{BF365C38-92B7-4620-986B-F30CCBE8DA5D}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
 							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
@@ -187,14 +187,14 @@
 						</item>
 						<item>
 							<Component type="key">VariablesManagement</Component>
-							<Name type="key">Car24withDspace232.map</Name>
-							<DisplayName type="key">Car24withDspace232.map</DisplayName>
-							<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+							<Name type="key">EXP_03.map</Name>
+							<DisplayName type="key">EXP_03.map</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 							<Flags type="key">18692</Flags>
 							<Type type="key">4</Type>
-							<UniqueID type="key">1054422871</UniqueID>
-							<EntityID type="key">{92844DE5-D380-4566-9836-AB508AA380E3}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+							<UniqueID type="key">631716584</UniqueID>
+							<EntityID type="key">{84462D4E-17EC-44D2-992B-5940EC81991B}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
 							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
@@ -202,14 +202,14 @@
 						</item>
 						<item>
 							<Component type="key">VariablesManagement</Component>
-							<Name type="key">Car24withDspace232.expswcfg</Name>
-							<DisplayName type="key">Car24withDspace232.expswcfg</DisplayName>
-							<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+							<Name type="key">EXP_03.expswcfg.mapping</Name>
+							<DisplayName type="key">EXP_03.expswcfg.mapping</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 							<Flags type="key">18692</Flags>
 							<Type type="key">4</Type>
-							<UniqueID type="key">771955462</UniqueID>
-							<EntityID type="key">{4971C301-DB80-48BF-8FE4-BFFE21852B26}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+							<UniqueID type="key">727737163</UniqueID>
+							<EntityID type="key">{A9C7EE1B-8C90-4338-8786-C595FBBED5B6}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
 							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
@@ -217,14 +217,14 @@
 						</item>
 						<item>
 							<Component type="key">VariablesManagement</Component>
-							<Name type="key">Car24withDspace232.trc</Name>
-							<DisplayName type="key">Car24withDspace232.trc</DisplayName>
-							<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+							<Name type="key">EXP_03.expswcfg</Name>
+							<DisplayName type="key">EXP_03.expswcfg</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 							<Flags type="key">18692</Flags>
 							<Type type="key">4</Type>
-							<UniqueID type="key">731486040</UniqueID>
-							<EntityID type="key">{E3D1F344-68BC-4684-B8BD-C5D2B8E56AC8}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+							<UniqueID type="key">456833420</UniqueID>
+							<EntityID type="key">{3187554E-00A0-4036-8060-A3557F370153}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
 							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
@@ -232,14 +232,14 @@
 						</item>
 						<item>
 							<Component type="key">VariablesManagement</Component>
-							<Name type="key">Car23WithdSPACE1_2.dsbuildinfo</Name>
-							<DisplayName type="key">Car23WithdSPACE1_2.dsbuildinfo</DisplayName>
-							<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+							<Name type="key">EXP_03.trc</Name>
+							<DisplayName type="key">EXP_03.trc</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 							<Flags type="key">18692</Flags>
 							<Type type="key">4</Type>
-							<UniqueID type="key">313136836</UniqueID>
-							<EntityID type="key">{DCD4AC19-C99F-4ED5-818A-4BC9B1CD6030}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+							<UniqueID type="key">370497775</UniqueID>
+							<EntityID type="key">{F2611B63-EAC9-488B-9590-B53630AA6D52}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
 							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
@@ -247,33 +247,183 @@
 						</item>
 						<item>
 							<Component type="key">VariablesManagement</Component>
-							<Name type="key">Car23WithdSPACE1_2.rta</Name>
-							<DisplayName type="key">Car23WithdSPACE1_2.rta</DisplayName>
-							<Path type="key">.\Variable Descriptions\Car23WithdSPACE1_2.sdf</Path>
+							<Name type="key">ApplicationProcess_1.map</Name>
+							<DisplayName type="key">ApplicationProcess_1.map</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
 							<Flags type="key">18692</Flags>
 							<Type type="key">4</Type>
-							<UniqueID type="key">1055490271</UniqueID>
-							<EntityID type="key">{167151E0-06B0-442B-B307-87E35717F34B}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+							<UniqueID type="key">408995663</UniqueID>
+							<EntityID type="key">{FB9DBBF9-8CF2-4939-A0A6-F7A0C8707E9A}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
 							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
 							<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
 						</item>
 						<item>
-							<Component type="key">DataSetManager</Component>
-							<Name type="key">Data Sets</Name>
-							<DisplayName type="key">Data Sets</DisplayName>
-							<Path type="key">.\Data Sets</Path>
-							<Flags type="key">65798</Flags>
-							<ExtendedFlags type="key">132</ExtendedFlags>
-							<Type type="key">3</Type>
-							<UniqueID type="key">178034398</UniqueID>
-							<EntityID type="key">{58665646-DB11-4345-A155-F5D4E046B712}</EntityID>
-							<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">ApplicationProcess_1.expswcfg</Name>
+							<DisplayName type="key">ApplicationProcess_1.expswcfg</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">845226904</UniqueID>
+							<EntityID type="key">{34AE5342-7F6F-46CE-B226-8A5078C9D7DC}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 							<ItemInfoDescr type="key"/>
 							<ItemInfoAddInfoDb type="key"/>
 							<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">ApplicationProcess_1.trc</Name>
+							<DisplayName type="key">ApplicationProcess_1.trc</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">141206605</UniqueID>
+							<EntityID type="key">{DC2D37B6-FF4D-4A6A-941D-495A104BA66F}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">DriveSystemControl.dsbuildinfo</Name>
+							<DisplayName type="key">DriveSystemControl.dsbuildinfo</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">455403010</UniqueID>
+							<EntityID type="key">{B7FA52B7-008A-4926-8CD4-C183989E12E4}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+						</item>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<Name type="key">DriveSystemControl.rta</Name>
+							<DisplayName type="key">DriveSystemControl.rta</DisplayName>
+							<Path type="key">.\Variable Descriptions\DriveSystemControl.sdf</Path>
+							<Flags type="key">18692</Flags>
+							<Type type="key">4</Type>
+							<UniqueID type="key">673924140</UniqueID>
+							<EntityID type="key">{E67C8D9A-F81D-4963-BD0B-3ADEAFF0DBF6}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+						</item>
+					</item>
+					<item>
+						<Component type="key">DataSetManager</Component>
+						<Name type="key">Data Sets Temp</Name>
+						<DisplayName type="key">Data Sets Temp</DisplayName>
+						<Path type="key">.\Data Sets</Path>
+						<Flags type="key">65798</Flags>
+						<ExtendedFlags type="key">132</ExtendedFlags>
+						<Type type="key">3</Type>
+						<UniqueID type="key">178034398</UniqueID>
+						<EntityID type="key">{58665646-DB11-4345-A155-F5D4E046B712}</EntityID>
+						<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">PlatformManagement</Component>
+						<Targets type="key">Device::bd78a6f5-1d83-4c8e-9131-7652624d860b</Targets>
+						<RestoreInfopmdn type="key">Platform</RestoreInfopmdn>
+						<RestoreInfopmid type="key">53cc3a31-fe4c-40b9-bae5-d65d88d8c37b</RestoreInfopmid>
+						<Name type="key">bd78a6f5-1d83-4c8e-9131-7652624d860b</Name>
+						<DisplayName type="key">Platform_2</DisplayName>
+						<Flags type="key">256</Flags>
+						<ExtendedFlags type="key">2048</ExtendedFlags>
+						<Type type="key">46</Type>
+						<UniqueID type="key">571014837</UniqueID>
+						<EntityID type="key">{116CC048-C1F1-43FC-B9CA-F3546148193D}</EntityID>
+						<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<RestoreInfoVariableDescriptionName type="key">DriveSystemControl.sdf</RestoreInfoVariableDescriptionName>
+							<DisplayName type="key">ApplicationProcess_1.trc</DisplayName>
+							<Flags type="key">18704</Flags>
+							<Type type="key">34</Type>
+							<UniqueID type="key">960616743</UniqueID>
+							<EntityID type="key">{C0123F3A-7DB7-4302-B62C-960C64C12E31}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+							<item>
+								<Component type="key">DataSetManager</Component>
+								<Name type="key">Data Sets</Name>
+								<DisplayName type="key">Data Sets</DisplayName>
+								<Path type="key">.\Data Sets</Path>
+								<Flags type="key">65798</Flags>
+								<ExtendedFlags type="key">132</ExtendedFlags>
+								<Type type="key">3</Type>
+								<UniqueID type="key">993992480</UniqueID>
+								<EntityID type="key">{0828A3C2-01B8-4169-8827-74E509D4F277}</EntityID>
+								<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+								<ItemInfoDescr type="key"/>
+								<ItemInfoAddInfoDb type="key"/>
+								<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+							</item>
+						</item>
+					</item>
+					<item>
+						<Component type="key">PlatformManagement</Component>
+						<Targets type="key">Device::d8a3add2-548e-4ce9-b56c-7f17dd6f6ecc</Targets>
+						<RestoreInfopmdn type="key">Platform</RestoreInfopmdn>
+						<RestoreInfopmid type="key">53cc3a31-fe4c-40b9-bae5-d65d88d8c37b</RestoreInfopmid>
+						<Name type="key">d8a3add2-548e-4ce9-b56c-7f17dd6f6ecc</Name>
+						<DisplayName type="key">Platform_3</DisplayName>
+						<Flags type="key">256</Flags>
+						<ExtendedFlags type="key">2048</ExtendedFlags>
+						<Type type="key">46</Type>
+						<UniqueID type="key">359733626</UniqueID>
+						<EntityID type="key">{2490C56B-A91E-402A-B9A9-DAB702B6F3DC}</EntityID>
+						<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+						<item>
+							<Component type="key">VariablesManagement</Component>
+							<RestoreInfoVariableDescriptionName type="key">DriveSystemControl.sdf</RestoreInfoVariableDescriptionName>
+							<DisplayName type="key">EXP_03.trc</DisplayName>
+							<Flags type="key">18704</Flags>
+							<Type type="key">34</Type>
+							<UniqueID type="key">926498795</UniqueID>
+							<EntityID type="key">{7965152A-4FE0-4A21-943D-94CDE5ED835D}</EntityID>
+							<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+							<item>
+								<Component type="key">DataSetManager</Component>
+								<Name type="key">Data Sets</Name>
+								<DisplayName type="key">Data Sets</DisplayName>
+								<Path type="key">.\Data Sets</Path>
+								<Flags type="key">65798</Flags>
+								<ExtendedFlags type="key">132</ExtendedFlags>
+								<Type type="key">3</Type>
+								<UniqueID type="key">93533098</UniqueID>
+								<EntityID type="key">{E94C0D66-DAC8-49FE-B243-FC1922A929AF}</EntityID>
+								<ItemInfoDate type="key">2025-03-14 17:48:51</ItemInfoDate>
+								<ItemInfoDescr type="key"/>
+								<ItemInfoAddInfoDb type="key"/>
+								<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+							</item>
 						</item>
 					</item>
 				</item>
@@ -481,6 +631,36 @@
 						<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
 					</item>
 				</item>
+				<item>
+					<Component type="key">BusNavigator</Component>
+					<Name type="key">DriveSystemControl.sdf</Name>
+					<DisplayName type="key">DriveSystemControl.sdf</DisplayName>
+					<Path type="key">.\BusNavigator</Path>
+					<Flags type="key">16644</Flags>
+					<Type type="key">3</Type>
+					<UniqueID type="key">413900809</UniqueID>
+					<EntityID type="key">{DA756A32-01F6-4855-BA01-F8C9CD815D9F}</EntityID>
+					<ItemInfoDate type="key">2025-03-14 17:48:52</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+					<item>
+						<Component type="key">BusNavigator</Component>
+						<Name type="key">BusConfiguration.xml</Name>
+						<DisplayName type="key">BusConfiguration.xml</DisplayName>
+						<Path type="key">.\BusNavigator\DriveSystemControl.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">143161527</UniqueID>
+						<EntityID type="key">{5DB83E1E-7257-4614-89CC-A60B906FEE47}</EntityID>
+						<ItemInfoDate type="key">2025-03-14 17:48:52</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
+					</item>
+				</item>
 			</item>
 			<item>
 				<Targets type="key">xilapieesport</Targets>
@@ -658,7 +838,22 @@
 					<EnforceStartingRTA type="key">1</EnforceStartingRTA>
 					<IgnoreSmartHardwareScanResult type="key">0</IgnoreSmartHardwareScanResult>
 				</GeneralSettings>
-				<SubstituteFactory/>
+				<SubstituteFactory>
+					<Substitute>
+						<DeviceName type="key">bd78a6f5-1d83-4c8e-9131-7652624d860b</DeviceName>
+						<DeviceType type="key">22</DeviceType>
+						<DisplayName type="key">Platform_2</DisplayName>
+						<VarDescPartName type="key">ApplicationProcess_1.trc</VarDescPartName>
+						<DeviceConfiguration/>
+					</Substitute>
+					<Substitute>
+						<DeviceName type="key">d8a3add2-548e-4ce9-b56c-7f17dd6f6ecc</DeviceName>
+						<DeviceType type="key">22</DeviceType>
+						<DisplayName type="key">Platform_3</DisplayName>
+						<VarDescPartName type="key">EXP_03.trc</VarDescPartName>
+						<DeviceConfiguration/>
+					</Substitute>
+				</SubstituteFactory>
 			</Device>
 		</DeviceFactory>
 	</PlatformManagement>

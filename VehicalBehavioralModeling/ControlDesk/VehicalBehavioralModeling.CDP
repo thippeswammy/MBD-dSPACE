@@ -144,70 +144,6 @@
 		<experiment>
 			<Creator type="key">ControlDesk</Creator>
 			<MigrationHistory type="key"/>
-			<Name type="key">DspaceArduinoConnection.CDE</Name>
-			<DisplayName type="key">DspaceArduinoConnection</DisplayName>
-			<Path type="key">.\DspaceArduinoConnection</Path>
-			<Flags type="key">4096</Flags>
-			<Type type="key">2</Type>
-			<UniqueID type="key">194445132</UniqueID>
-			<EntityID type="key">{F281C9FB-7CE8-4494-98FA-85E2905B3005}</EntityID>
-			<ItemInfoDate type="key">2024-08-02 17:31:48</ItemInfoDate>
-			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
-			<ItemInfoDescr type="key"/>
-			<ItemInfoAddInfoDb type="key"/>
-			<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
-		</experiment>
-		<experiment>
-			<Creator type="key">ControlDesk</Creator>
-			<MigrationHistory type="key"/>
-			<Name type="key">DspaceArduinoConnection2.CDE</Name>
-			<DisplayName type="key">DspaceArduinoConnection2</DisplayName>
-			<Path type="key">.\DspaceArduinoConnection2</Path>
-			<Flags type="key">4096</Flags>
-			<Type type="key">2</Type>
-			<UniqueID type="key">601716864</UniqueID>
-			<EntityID type="key">{A87801AA-D238-46A3-B317-B97DCB64E098}</EntityID>
-			<ItemInfoDate type="key">2024-08-02 17:37:39</ItemInfoDate>
-			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
-			<ItemInfoDescr type="key"/>
-			<ItemInfoAddInfoDb type="key"/>
-			<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
-		</experiment>
-		<experiment>
-			<Creator type="key">ControlDesk</Creator>
-			<MigrationHistory type="key"/>
-			<Name type="key">Car23dSPACE1_1.CDE</Name>
-			<DisplayName type="key">Car23dSPACE1_1</DisplayName>
-			<Path type="key">.\Car23dSPACE1_1</Path>
-			<Flags type="key">4096</Flags>
-			<Type type="key">2</Type>
-			<UniqueID type="key">863207981</UniqueID>
-			<EntityID type="key">{A2AD5423-CB99-49CE-8D44-E4EBDBB3CE02}</EntityID>
-			<ItemInfoDate type="key">2024-08-05 17:35:23</ItemInfoDate>
-			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
-			<ItemInfoDescr type="key"/>
-			<ItemInfoAddInfoDb type="key"/>
-			<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
-		</experiment>
-		<experiment>
-			<Creator type="key">ControlDesk</Creator>
-			<MigrationHistory type="key"/>
-			<Name type="key">Car23dSPACE1_2.CDE</Name>
-			<DisplayName type="key">Car23dSPACE1_2</DisplayName>
-			<Path type="key">.\Car23dSPACE1_2</Path>
-			<Flags type="key">4096</Flags>
-			<Type type="key">2</Type>
-			<UniqueID type="key">1033013908</UniqueID>
-			<EntityID type="key">{D55E9E42-A509-4A63-94F6-2D9E2F6AD480}</EntityID>
-			<ItemInfoDate type="key">2024-08-05 18:16:31</ItemInfoDate>
-			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
-			<ItemInfoDescr type="key"/>
-			<ItemInfoAddInfoDb type="key"/>
-			<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
-		</experiment>
-		<experiment>
-			<Creator type="key">ControlDesk</Creator>
-			<MigrationHistory type="key"/>
 			<Name type="key">Veh_Behavior_Modeling_Exp1.CDE</Name>
 			<DisplayName type="key">Veh_Behavior_Modeling_Exp1</DisplayName>
 			<Path type="key">.\Veh_Behavior_Modeling_Exp1</Path>
@@ -216,22 +152,6 @@
 			<UniqueID type="key">496990312</UniqueID>
 			<EntityID type="key">{B57C942C-3163-4840-98BB-0DBBC7511784}</EntityID>
 			<ItemInfoDate type="key">2024-08-07 16:02:51</ItemInfoDate>
-			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
-			<ItemInfoDescr type="key"/>
-			<ItemInfoAddInfoDb type="key"/>
-			<ItemInfoAuthor type="key">MURTI</ItemInfoAuthor>
-		</experiment>
-		<experiment>
-			<Creator type="key">ControlDesk</Creator>
-			<MigrationHistory type="key"/>
-			<Name type="key">Experiment_001_micro.CDE</Name>
-			<DisplayName type="key">Experiment_001_micro</DisplayName>
-			<Path type="key">.\Experiment_001_micro</Path>
-			<Flags type="key">4096</Flags>
-			<Type type="key">2</Type>
-			<UniqueID type="key">682716913</UniqueID>
-			<EntityID type="key">{926406A0-DCF1-41E1-A173-63432A206945}</EntityID>
-			<ItemInfoDate type="key">2024-09-11 19:23:52</ItemInfoDate>
 			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
 			<ItemInfoDescr type="key"/>
 			<ItemInfoAddInfoDb type="key"/>
