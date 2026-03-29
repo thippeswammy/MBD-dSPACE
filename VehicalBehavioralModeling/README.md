@@ -92,6 +92,7 @@ For the HIL phase, the physical interface relies on bidirectional communication 
  ┃    ┣ 📜 Veh_Behavior_Modeling_Exp1.slx      # Core behavioral plant model
  ┃    ┗ 📜 ArduionModelInterWithdSPACE.slx     # Arduino hardware interface model
  ┗ 📂 vehicleController/         # Additional experimental control logic
+```
 
  ## 👤 Author
 
